@@ -73,7 +73,7 @@
     "sass": "^1.23.7",
     "svg-sprite-loader": "^4.1.6",
     "throttle-debounce": "^2.1.0",
-    "tinymce": "^5.0.15",
+    "tinymce": "^5.1.4",
     "vue": "^2.6.10",
     "vue-codemirror": "^4.0.6",
     "vue-image-crop-upload": "^2.5.0",
